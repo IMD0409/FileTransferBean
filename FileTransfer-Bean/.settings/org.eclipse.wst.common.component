@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="FileTransfer-Bean">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/FileTransfer-Bean/build/classes"/>
+        <property name="ClientProject" value="FileTransfer-BeanClient"/>
+        <property name="ClientJARURI" value="FileTransfer-BeanClient.jar"/>
+    </wb-module>
+</project-modules>
